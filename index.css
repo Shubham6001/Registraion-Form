@@ -1,0 +1,25 @@
+body{
+	margin: 0px;
+	padding: 100px 300px;
+
+	
+
+}
+
+#label{
+	text-align: justify-all;
+	
+	
+	width: 200px;
+	line-height: 28px;
+	padding-left: 300px;
+	background-color: skyblue;
+	padding-right: 300px;
+	padding-top: 1px;
+	color: black;
+	font-family: arial;
+
+
+}
+
+
